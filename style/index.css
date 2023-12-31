@@ -1,0 +1,48 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  align-items: center;
+  justify-content: center;
+}
+
+body {
+  background-color: rgba(224, 0, 245, 0.158);
+  background-clip: border-box;
+  padding: 100px;
+  align-items: center;
+  text-align: center;
+}
+main {
+  background-color: aliceblue;
+  height: 2000px;
+  padding: 20px;
+  align-items: center;
+  width: 1000px;
+  align-content: center;
+}
+
+nav li {
+  list-style-type: none;
+  display: inline;
+  padding: 10px;
+}
+nav a {
+  text-decoration: none;
+}
+nav {
+  display: inline;
+}
+.Eleck {
+  padding-right: 300px;
+  font-size: 20px;
+  font-weight: bolder;
+}
+.shop {
+  border: 0.5px solid black;
+  padding: 10px;
+  border-radius: 20px;
+}
+.navigacio {
+  display: inline;
+}
